@@ -8,4 +8,4 @@ Technologies used:
 - Android Studio
 - Genymotion
 
-<img src+"https://github.com/TheManuGarcia/CourtCounter/blob/master/CourtCounterScreenshot.png"/>
+<img src="https://github.com/TheManuGarcia/CourtCounter/blob/master/CourtCounterScreenshot.png"/>
