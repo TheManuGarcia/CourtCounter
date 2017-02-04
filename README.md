@@ -1,5 +1,5 @@
 # CourtCounter
-Android project that represents two teams scoring points as in a basketball court.
+Android project that simulates two teams scoring points as in a basketball court.
 
 Technologies used:
 - Android
